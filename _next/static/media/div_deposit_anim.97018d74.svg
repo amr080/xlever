@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 124.2 134.6" style="enable-background:new 0 0 124.2 134.6;" xml:space="preserve">
+<style type="text/css">
+	//.bg_deposit{fill:#FF0000;}
+	.outline{fill:none;stroke:#7FDF00;}
+
+	.coins{
+		animation: coinDrop 0.3s ease-in forwards;
+		transform: translateY(-20%);
+                opacity: 0;
+	}
+	.coin2{animation-delay: 0.2s;}
+	.coin3{animation-delay: 0.4s;}
+	.coin4{animation-delay: 0.6s;}
+	.coin5{animation-delay: 0.7s;}
+	 @keyframes coinDrop {
+            0% {
+          		transform: translateY(-20%);
+                opacity: 0;
+            }
+
+			100% {
+				transform: translateY(0);
+				opacity: 1;
+            }
+		}
+	.fx_deposit {
+			transform-origin: 50% 50%;
+            opacity: 1;
+            transform: scale(0.9, 0.9);
+			fill: #5AA800;
+			animation: animRing 4s ease-out infinite;
+	}
+	 @keyframes animRing {
+            0% {
+          		transform: scale(0.9, 0.9);
+                opacity: 1;
+            }
+			80% {
+          	
+            opacity: 0;
+            }
+			100% {
+          	transform: scale(1.12, 1.12);
+             opacity: 0; 
+            }
+	}
+</style>
+    <defs>
+            <linearGradient id="gradient">
+                    <stop offset="0%" stop-color="#2c5e00">
+                <animate attributeName="stop-color" values="#2c5e00; #0c0c0c; #2c5e00" dur="4s" repeatCount="indefinite"></animate>
+            </stop>
+
+            <stop offset="100%" stop-color="#0c0c0c">
+                <animate attributeName="stop-color" values="#0c0c0c; #2c5e00; #0c0c0c" dur="4s" repeatCount="indefinite"></animate>
+            </stop>
+                </linearGradient>
+            </defs>
+			<path class="fx_deposit"  d="M22.1,9h80c5.8,0,10.5,4.7,10.5,10.5v94c0,5.8-4.7,10.5-10.5,10.5h-80c-5.8,0-10.5-4.7-10.5-10.5v-94
+	C11.6,13.7,16.3,9,22.1,9z"/>
+<path class="bg_deposit" fill="url(#gradient)" d="M22.1,9h80c5.8,0,10.5,4.7,10.5,10.5v94c0,5.8-4.7,10.5-10.5,10.5h-80c-5.8,0-10.5-4.7-10.5-10.5v-94
+	C11.6,13.7,16.3,9,22.1,9z"/>
+<path class="outline" d="M22.1,9h80c5.8,0,10.5,4.7,10.5,10.5v94c0,5.8-4.7,10.5-10.5,10.5h-80c-5.8,0-10.5-4.7-10.5-10.5v-94
+	C11.6,13.7,16.3,9,22.1,9z"/>
+
+<g id="div_x5F_deposit">
+	<g class=" coins coin1">
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M37.4,99.6v7.8c0,3.7,10.8,6.6,24.2,6.6s24.2-3,24.2-6.6v-7.8c0-3.7-10.8-6.6-24.2-6.6
+					C48.2,92.9,37.4,95.9,37.4,99.6"/>
+			</defs>
+			<clipPath id="SVGID_00000038414657810803854880000001237016091470838449_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_717_00000096046668610585502690000011468266512624215225_" style="clip-path:url(#SVGID_00000038414657810803854880000001237016091470838449_);">
+				
+					<linearGradient id="Rectangle_123_00000051364170784981161890000012919558548945140921_" gradientUnits="userSpaceOnUse" x1="6213.6318" y1="10168.2646" x2="6214.6128" y2="10168.2227" gradientTransform="matrix(48.913 -1.125 -0.5109 -22.213 -298694.375 232961.5469)">
+					<stop  offset="0" style="stop-color:#C4611F"/>
+					<stop  offset="0.534" style="stop-color:#F39F1B"/>
+					<stop  offset="1" style="stop-color:#FFAE1B"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_123_00000000910563619109597010000008718297701757646208_" style="fill:url(#Rectangle_123_00000051364170784981161890000012919558548945140921_);" points="
+					36.9,92.9 85.8,91.8 86.3,114 37.4,115.2 				"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_00000143584455793447189130000001615966105335000199_" d="M37.4,99.6c0,3.7,10.8,6.6,24.2,6.6s24.2-3,24.2-6.6
+					S75,93,61.6,93C48.2,92.9,37.4,95.9,37.4,99.6"/>
+			</defs>
+			<clipPath id="SVGID_00000183212946733470331250000014010041411250433212_">
+				<use xlink:href="#SVGID_00000143584455793447189130000001615966105335000199_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_719_00000139254436438230954590000010365451494214399407_" style="clip-path:url(#SVGID_00000183212946733470331250000014010041411250433212_);">
+				
+					<linearGradient id="Rectangle_124_00000100375083712955918990000016150641322650432175_" gradientUnits="userSpaceOnUse" x1="21.4204" y1="96.8042" x2="66.7396" y2="99.868">
+					<stop  offset="0" style="stop-color:#FE9A1F"/>
+					<stop  offset="1" style="stop-color:#FEDB00"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_124_00000103266341132183051570000000307748141134285748_" style="fill:url(#Rectangle_124_00000100375083712955918990000016150641322650432175_);" points="
+					31.9,103.3 47.9,72.9 91.3,95.8 75.3,126.2 				"/>
+			</g>
+		</g>
+	</g>
+	<g class=" coins coin2">
+		<g>
+			<defs>
+				<path id="SVGID_00000096745513026246236230000010042872342757974917_" d="M37.4,89.7v7.8c0,3.7,10.8,6.6,24.2,6.6
+					s24.2-3,24.2-6.6v-7.8c0-3.7-10.8-6.6-24.2-6.6C48.2,83,37.4,86,37.4,89.7"/>
+			</defs>
+			<clipPath id="SVGID_00000168111684461297610420000000858638868651121564_">
+				<use xlink:href="#SVGID_00000096745513026246236230000010042872342757974917_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_721_00000086655153996877468770000004546675254182387089_" style="clip-path:url(#SVGID_00000168111684461297610420000000858638868651121564_);">
+				
+					<linearGradient id="Rectangle_125_00000054945844736959481330000018354531742265084340_" gradientUnits="userSpaceOnUse" x1="6213.6509" y1="10158.6182" x2="6214.6318" y2="10158.5762" gradientTransform="matrix(48.8997 -1.1404 -0.5179 -22.207 -298546.4375 232772.1875)">
+					<stop  offset="0" style="stop-color:#C4611F"/>
+					<stop  offset="0.534" style="stop-color:#F39F1B"/>
+					<stop  offset="1" style="stop-color:#FFAE1B"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_125_00000090294179515692913790000010404986316638401727_" style="fill:url(#Rectangle_125_00000054945844736959481330000018354531742265084340_);" points="
+					36.9,83.1 85.8,81.9 86.3,104.1 37.4,105.3 				"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_00000017503473290635115460000003221694368414496921_" d="M37.4,89.7c0,3.7,10.8,6.6,24.2,6.6s24.2-3,24.2-6.6
+					S75,83.1,61.6,83.1C48.2,83,37.4,86,37.4,89.7"/>
+			</defs>
+			<clipPath id="SVGID_00000101787699468207397520000003142513497355607704_">
+				<use xlink:href="#SVGID_00000017503473290635115460000003221694368414496921_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_723_00000042007265050733052300000010761388007061743277_" style="clip-path:url(#SVGID_00000101787699468207397520000003142513497355607704_);">
+				
+					<linearGradient id="Rectangle_126_00000153707144715480102770000014037930978411459496_" gradientUnits="userSpaceOnUse" x1="22.0804" y1="87.0418" x2="67.3995" y2="90.1056">
+					<stop  offset="0" style="stop-color:#FE9A1F"/>
+					<stop  offset="1" style="stop-color:#FEDB00"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_126_00000046326489511797852490000006946081933683157376_" style="fill:url(#Rectangle_126_00000153707144715480102770000014037930978411459496_);" points="
+					31.9,93.4 47.9,63.1 91.3,85.9 75.3,116.3 				"/>
+			</g>
+		</g>
+	</g>
+	<g class=" coins coin3">
+		<g>
+			<defs>
+				<path id="SVGID_00000085969863294448253750000006022700369578942367_" d="M37.4,79.2V87c0,3.7,10.8,6.6,24.2,6.6
+					s24.2-3,24.2-6.6v-7.8c0-3.7-10.8-6.6-24.2-6.6S37.4,75.5,37.4,79.2"/>
+			</defs>
+			<clipPath id="SVGID_00000104695526381508855080000003602506099656219047_">
+				<use xlink:href="#SVGID_00000085969863294448253750000006022700369578942367_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_725_00000134249586979060759750000004628297321457350823_" style="clip-path:url(#SVGID_00000104695526381508855080000003602506099656219047_);">
+				
+					<linearGradient id="Rectangle_127_00000049927912165529972470000009849283342633197243_" gradientUnits="userSpaceOnUse" x1="6213.6509" y1="10148.0771" x2="6214.6318" y2="10148.0352" gradientTransform="matrix(48.8997 -1.1404 -0.5179 -22.207 -298551.875 232527.5469)">
+					<stop  offset="0" style="stop-color:#C4611F"/>
+					<stop  offset="0.534" style="stop-color:#F39F1B"/>
+					<stop  offset="1" style="stop-color:#FFAE1B"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_127_00000154409632621875911070000011422267728277907626_" style="fill:url(#Rectangle_127_00000049927912165529972470000009849283342633197243_);" points="
+					36.9,72.6 85.8,71.4 86.3,93.6 37.4,94.8 				"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_00000166654151839525683540000017540139653086872714_" d="M37.4,79.2c0,3.7,10.8,6.6,24.2,6.6s24.2-3,24.2-6.6
+					S75,72.6,61.6,72.6S37.4,75.5,37.4,79.2"/>
+			</defs>
+			<clipPath id="SVGID_00000048474308124301866610000010227434923085895099_">
+				<use xlink:href="#SVGID_00000166654151839525683540000017540139653086872714_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_727_00000018200360384474989980000010408658157898660484_" style="clip-path:url(#SVGID_00000048474308124301866610000010227434923085895099_);">
+				
+					<linearGradient id="Rectangle_128_00000130630696622732550190000003742049591301116802_" gradientUnits="userSpaceOnUse" x1="22.7909" y1="76.5318" x2="68.1101" y2="79.5956">
+					<stop  offset="0" style="stop-color:#FE9A1F"/>
+					<stop  offset="1" style="stop-color:#FEDB00"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_128_00000065055381051776397220000007306197006113971642_" style="fill:url(#Rectangle_128_00000130630696622732550190000003742049591301116802_);" points="
+					31.9,82.9 47.9,52.6 91.3,75.4 75.3,105.8 				"/>
+			</g>
+		</g>
+	</g>
+	<g class=" coins coin4">
+		<g>
+			<defs>
+				<path id="SVGID_00000104704112364760774580000013923195398271180945_" d="M59.5,58.5c-12.5,3-22,8.1-22.1,11.7l0,0
+					c0,0.2,0,0.3,0.1,0.4l1.8,7.6c0.9,3.6,12.1,3.9,25.1,0.8s22.9-8.5,22-12.1l-1.8-7.6c-0.5-1.9-4-2.9-9.2-2.9
+					C70,56.4,64.7,57.2,59.5,58.5"/>
+			</defs>
+			<clipPath id="SVGID_00000023278112044662798980000013589705915228484769_">
+				<use xlink:href="#SVGID_00000104704112364760774580000013923195398271180945_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_729_00000067219675138359182910000017283375172332736668_" style="clip-path:url(#SVGID_00000023278112044662798980000013589705915228484769_);">
+				
+					<linearGradient id="Rectangle_129_00000098210161864193363570000016300502489606594463_" gradientUnits="userSpaceOnUse" x1="6267.835" y1="10010.7236" x2="6268.5371" y2="10010.707" gradientTransform="matrix(52.9312 -13.6156 -9.3064 -36.179 -238558.4531 447592.4062)">
+					<stop  offset="0" style="stop-color:#C4611F"/>
+					<stop  offset="0.534" style="stop-color:#F39F1B"/>
+					<stop  offset="1" style="stop-color:#FFAE1B"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_129_00000058554299751400352730000004915168074804750991_" style="fill:url(#Rectangle_129_00000098210161864193363570000016300502489606594463_);" points="
+					31.2,57.9 84.1,44.3 93.4,80.5 40.5,94.1 				"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_00000161624663240664200270000007263405948403728825_" d="M59.5,58.5c-12.5,3-22,8.1-22.1,11.7l0,0
+					c0,0.2,0,0.3,0.1,0.4c0.9,3.6,12.1,3.9,25.1,0.8c13-3.1,22.9-8.5,22-12.1c-0.5-1.9-4-2.9-9.2-2.9C70,56.5,64.7,57.2,59.5,58.5"
+					/>
+			</defs>
+			<clipPath id="SVGID_00000076569441225144179900000008764331267331323030_">
+				<use xlink:href="#SVGID_00000161624663240664200270000007263405948403728825_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_731_00000025434637268502282290000000389803714406272667_" style="clip-path:url(#SVGID_00000076569441225144179900000008764331267331323030_);">
+				
+					<linearGradient id="Rectangle_130_00000119832801892182324200000014817630357537215384_" gradientUnits="userSpaceOnUse" x1="62.572" y1="48.7338" x2="60.9124" y2="72.0955">
+					<stop  offset="0" style="stop-color:#FE9A1F"/>
+					<stop  offset="1" style="stop-color:#FEDB00"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_130_00000120560033018132335040000003884154377891340433_" style="fill:url(#Rectangle_130_00000119832801892182324200000014817630357537215384_);" points="
+					33.1,73.4 40.3,44.8 89.7,57.4 82.5,86 				"/>
+			</g>
+		</g>
+	</g>
+	<g class=" coins coin5">
+		<g>
+			<defs>
+				<path id="SVGID_00000142879595132935085360000002647947412910316479_" d="M46.6,21.4c-2,0-3.4,0.5-4,1.5l-3.5,7
+					c-1.6,3.3,6.7,10.8,18.6,16.8c11.9,6,23,8.3,24.6,5l3.5-7c1.7-3.3-6.7-10.8-18.6-16.8C59,23.8,51.3,21.4,46.6,21.4L46.6,21.4z"
+					/>
+			</defs>
+			<clipPath id="SVGID_00000127731915042639453900000002028577309765061043_">
+				<use xlink:href="#SVGID_00000142879595132935085360000002647947412910316479_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_733_00000088122461041820983360000015700033299753819069_" style="clip-path:url(#SVGID_00000127731915042639453900000002028577309765061043_);">
+				
+					<linearGradient id="Rectangle_131_00000109008647920649958540000006505259580164514958_" gradientUnits="userSpaceOnUse" x1="6422.6538" y1="9882.1846" x2="6422.5889" y2="9882.9873" gradientTransform="matrix(27.5539 -46.8471 -51.8803 -30.5143 335805.5938 602479.375)">
+					<stop  offset="0" style="stop-color:#C4611F"/>
+					<stop  offset="0.534" style="stop-color:#F39F1B"/>
+					<stop  offset="1" style="stop-color:#FFAE1B"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_131_00000129186652754849213650000015183631974421164457_" style="fill:url(#Rectangle_131_00000109008647920649958540000006505259580164514958_);" points="
+					22.8,46.3 50.3,-0.5 102.2,30 74.7,76.8 				"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_00000011001536938452231790000017602905366107053758_" d="M46.7,21.4c-2,0-3.4,0.5-4,1.5
+					c-1.7,3.3,6.7,10.8,18.6,16.8c11.9,6,23,8.3,24.6,5c1.7-3.3-6.7-10.8-18.6-16.8C59.1,23.8,51.4,21.4,46.7,21.4L46.7,21.4z"/>
+			</defs>
+			<clipPath id="SVGID_00000023977346417076004950000005627937005388432035_">
+				<use xlink:href="#SVGID_00000011001536938452231790000017602905366107053758_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<g id="Group_735_00000020364439644378937340000000365477543484670092_" style="clip-path:url(#SVGID_00000023977346417076004950000005627937005388432035_);">
+				
+					<linearGradient id="Rectangle_132_00000023998747269306697040000014454736977836332473_" gradientUnits="userSpaceOnUse" x1="6333.7295" y1="9935.3916" x2="6333.9766" y2="9935.7949" gradientTransform="matrix(43.4933 -30.8976 -28.1745 -39.6601 4514.7856 589792)">
+					<stop  offset="0" style="stop-color:#FE9A1F"/>
+					<stop  offset="1" style="stop-color:#FEDB00"/>
+				</linearGradient>
+				
+					<polygon id="Rectangle_132_00000174576706965192367300000005525328715788994466_" style="fill:url(#Rectangle_132_00000023998747269306697040000014454736977836332473_);" points="
+					28.5,30.3 72,-0.6 100.2,39 56.7,69.9 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+
+
+</svg>
